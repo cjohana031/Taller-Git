@@ -18,7 +18,7 @@ app.title = "Dashboard energia"
 server = app.server
 app.config.suppress_callback_exceptions = True
 
-
+# sample changes to be joined from a pull request 
 # Load data from csv
 def load_data():
     # Cargar el archivo CSV
